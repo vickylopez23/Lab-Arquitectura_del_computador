@@ -1,0 +1,11 @@
+**/simulation/modelsim/rtl_work/**
+**/simulation/modelsim/*.*
+**/simulation/modelsim/msim_transcript
+**/output_files/**
+**/db/**
+**/incremental_db/**
+**/*.bak
+**/*.rpt
+**/cr_ie_info.json
+**/serv_req_info.txt
+
